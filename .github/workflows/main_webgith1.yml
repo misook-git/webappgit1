@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'webgith1'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a5973f79ad35443697fe1d3776a18db3 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fd1a841fe89f4b769269c5e210cdc3fe }}
         package: .
